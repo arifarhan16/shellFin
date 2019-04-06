@@ -1,0 +1,12 @@
+# shellFin
+
+# Coded By Nii-sanHaxor 
+
+# GAUSAH RECODE + GANTI AUTHOR ! KALO MAU DI HARGAIN :)
+
+# INGAT ANDA NUB KALO MASIH RECODE ! AOWKAOKW BANGSAD 
+
+# HAIKER KOK BUTA PROGRAM 
+
+
+Cara Penggunaan  ? easy kok ster kek SQL-MAP 
